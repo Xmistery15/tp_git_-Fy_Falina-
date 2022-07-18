@@ -1,8 +1,16 @@
 # tp_git_-Fy_Falina-
 ## Récupération du projet
 Pour récupérer le projet, vous devez:
-- vous rendre dans la branche dev où vous trouverez un fichier [addTwoInt.py].
-- Puis enregistrer le fichier dans votre appareil pour pouvoir l'exécuter sous linux 
+- Copier le lien du git
+- Cloner le projet dans un fichier local avec la commande :
+```sh
+$>> git clone git_project_link
+```
+- Se déplacer dans la branche dev avec la commande : 
+```sh
+$>> git checkout dev
+``` 
+- Puis exécuter le fichier [addTwoInt.py]
 
 ## Exécution du code
 Pour exécuter le code, il suffit de taper le commande suivant dans le terminal linux:
