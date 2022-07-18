@@ -15,9 +15,9 @@ $>> git checkout dev
 ## Exécution du code
 Pour exécuter le code, il suffit de taper le commande suivant dans le terminal linux:
 ```sh
-cd emplacement_du_fichier/addTwoInt.py
 python addTwoInt.py valeur1 valeur2
 ```
+Où valeur1 et valeur2 sont les valeurs à ajouter
 
 **Randrianarijaona Fy Falina,UDM Info1**
 
